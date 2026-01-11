@@ -1,4 +1,4 @@
-# 🚀 Ultra Cursor Reset: Senior 10x Edition
+# 🚀 Cursor-Trial-Reset-Guide
 
 ![Stars](https://img.shields.io/github/stars/Silveira-Software/Cursor-Trial-Reset-Guide?style=for-the-badge&color=gold)
 ![License](https://img.shields.io/github/license/Silveira-Software/Cursor-Trial-Reset-Guide?style=for-the-badge&color=blue)
